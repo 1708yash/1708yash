@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1708yash
+- 👋 Hi, I’m Yash Tomar
 - 👀 I’m interested in React, AI, Web3
 - 🌱 I’m currently learning Javascript and Next.js
 - 💞️ I’m looking to collaborate on ...
