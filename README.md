@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yash Tomar
 - 👀 I’m interested in React, AI, Web3
-- 🌱 I’m currently learning Javascript and Next.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me e-mail:yash1708tomar@gmail.com
 
 <!---
