@@ -37,7 +37,7 @@ I'm a passionate developer diving into the exciting world of React, AI, and Web3
 ## ⚡ Fun Fact:
 I’m also a huge fan of **animated GIFs**! Here's a random GIF that represents my mood while coding:
 
-<img src="https://your-animation-url.gif" alt="Coding Mood GIF" width="400px">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndvYmdpaWF2ejYzampieHRwdDJmZTJvZmRtOWdpZzd3MnE1enB5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dSoP5ER5gkgR4jptr9/giphy.gif" alt="Coding Mood GIF" width="400px">
 
 ---
 
