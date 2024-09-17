@@ -41,5 +41,6 @@ I’m also a huge fan of **animated GIFs**! Here's a random GIF that represents 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=1708yash&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=1708yash&color=blue&style=flat-square)
+
 
