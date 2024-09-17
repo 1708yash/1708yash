@@ -8,7 +8,7 @@ I'm a passionate developer diving into the exciting world of React, AI, and Web3
 ---
 
 ## 👀 About Me:
-- 🔭 Currently working on **Flutter** projects and exploring Web3.
+- 🔭 Exploring **Flutter** and **Web3** projects.
 - 🌱 Continuously learning and staying updated with **AI** and **React**.
 - 💡 I love building new things and experimenting with the latest tech trends.
 - 💬 Ask me anything about **React**, **AI**, **Web3**, or **Flutter**!
@@ -17,15 +17,18 @@ I'm a passionate developer diving into the exciting world of React, AI, and Web3
 
 ## 📫 Let's Connect!
 - 📧 Email: yash1708tomar@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) • [Twitter](https://twitter.com/your-profile)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yash-tomar1708/) • [YouTube](https://www.youtube.com/channel/UCzjSbcwh-tmDIRuyynn8Lvw)
 
 ---
 
 ## 🛠️ Tech Stack:
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=for-the-badge&logo=web3.js)
 ![AI](https://img.shields.io/badge/-AI-000000?style=for-the-badge&logo=artificial-intelligence)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 
@@ -35,12 +38,6 @@ I'm a passionate developer diving into the exciting world of React, AI, and Web3
 I’m also a huge fan of **animated GIFs**! Here's a random GIF that represents my mood while coding:
 
 <img src="https://your-animation-url.gif" alt="Coding Mood GIF" width="400px">
-
----
-
-## 🚧 Current Projects:
-- Working on enhancing **Flutter** skills with live projects.
-- Building a **React** and **Web3** integrated DApp.
 
 ---
 
