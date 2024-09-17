@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Yash Tomar! 
 
-### 🚀 React | AI | Web3 Enthusiast | Flutter Learner
-I'm a passionate developer diving into the exciting world of React, AI, and Web3 while currently exploring Flutter development.
+### 🚀 Next | Flutter Learner
+I'm a passionate developer diving into the exciting world of React, AI, while currently exploring Flutter development.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=1708yash&theme=radical&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
 ---
 
 ## 👀 About Me:
-- 🔭 Exploring **Flutter** and **Web3** projects.
+- 🔭 Exploring **Flutter** and **NextJs** projects.
 - 🌱 Continuously learning and staying updated with **AI** and **React**.
 - 💡 I love building new things and experimenting with the latest tech trends.
-- 💬 Ask me anything about **React**, **AI**, **Web3**, or **Flutter**!
+- 💬 Ask me anything about **React**, **AI** or **Flutter**!
 
 ---
 
